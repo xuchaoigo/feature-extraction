@@ -1,2 +1,2 @@
-# feature-extraction
-feature extraction methods and tricks
+# feature-represent
+feature extraction, conversion, representation and learning
